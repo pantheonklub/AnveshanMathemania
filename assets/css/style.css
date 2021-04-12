@@ -208,7 +208,7 @@ p {
   height: 100%;
   border-style: solid;
   /* Spinner Color */
-  border-color: #0067f4 #0067f4 #e9ecef;
+  border-color: #003ad9#003ad9 #e9ecef;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -493,7 +493,7 @@ p {
   padding: 0 32px;
   font-size: 16px;
   line-height: 46px;
-  color: #0067f4;
+  color: #003ad9;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -527,19 +527,19 @@ p {
   margin-left: 0;
 }
 .standard-buttons .standard-one {
-  border-color: #0067f4;
+  border-color: #003ad9;
 }
 .standard-buttons .standard-one:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .standard-buttons .standard-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
 }
 .standard-buttons .standard-two:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .standard-buttons .standard-three {
@@ -548,12 +548,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   border: 0;
   line-height: 52px;
   background-size: 200% auto;
@@ -572,7 +572,7 @@ p {
   background-position: right center;
 }
 .standard-buttons .standard-four {
-  border-color: #0067f4;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -598,7 +598,7 @@ p {
   }
 }
 .standard-buttons .standard-four:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .standard-buttons .standard-four:hover i {
@@ -606,8 +606,8 @@ p {
 }
 .standard-buttons .standard-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -633,7 +633,7 @@ p {
   }
 }
 .standard-buttons .standard-five:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .standard-buttons .standard-five:hover i {
@@ -646,12 +646,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   border: 0;
   line-height: 52px;
   background-size: 200% auto;
@@ -712,19 +712,19 @@ p {
   border-radius: 5px;
 }
 .light-rounded-buttons .light-rounded-one {
-  border-color: #0067f4;
+  border-color: #003ad9;
 }
 .light-rounded-buttons .light-rounded-one:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .light-rounded-buttons .light-rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
 }
 .light-rounded-buttons .light-rounded-two:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .light-rounded-buttons .light-rounded-three {
@@ -733,12 +733,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   line-height: 52px;
   border: 0;
@@ -757,7 +757,7 @@ p {
   background-position: right center;
 }
 .light-rounded-buttons .light-rounded-four {
-  border-color: #0067f4;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -783,7 +783,7 @@ p {
   }
 }
 .light-rounded-buttons .light-rounded-four:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .light-rounded-buttons .light-rounded-four:hover i {
@@ -794,8 +794,8 @@ p {
 }
 .light-rounded-buttons .light-rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -821,7 +821,7 @@ p {
   }
 }
 .light-rounded-buttons .light-rounded-five:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .light-rounded-buttons .light-rounded-five:hover i {
@@ -837,12 +837,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   line-height: 52px;
   border: 0;
@@ -903,19 +903,19 @@ p {
   border-radius: 10px;
 }
 .semi-rounded-buttons .semi-rounded-one {
-  border-color: #0067f4;
+  border-color: #003ad9;
 }
 .semi-rounded-buttons .semi-rounded-one:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .semi-rounded-buttons .semi-rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
 }
 .semi-rounded-buttons .semi-rounded-two:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .semi-rounded-buttons .semi-rounded-three {
@@ -923,12 +923,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border: 0;
   color: #fff;
@@ -947,7 +947,7 @@ p {
   background-position: right center;
 }
 .semi-rounded-buttons .semi-rounded-four {
-  border-color: #0067f4;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -973,7 +973,7 @@ p {
   }
 }
 .semi-rounded-buttons .semi-rounded-four:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .semi-rounded-buttons .semi-rounded-four:hover i {
@@ -984,8 +984,8 @@ p {
 }
 .semi-rounded-buttons .semi-rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -1011,7 +1011,7 @@ p {
   }
 }
 .semi-rounded-buttons .semi-rounded-five:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .semi-rounded-buttons .semi-rounded-five:hover i {
@@ -1026,12 +1026,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border: 0;
   color: #fff;
@@ -1092,19 +1092,19 @@ p {
   border-radius: 50px;
 }
 .rounded-buttons .rounded-one {
-  border-color: #0067f4;
+  border-color: #003ad9;
 }
 .rounded-buttons .rounded-one:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .rounded-buttons .rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
 }
 .rounded-buttons .rounded-two:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .rounded-buttons .rounded-three {
@@ -1112,12 +1112,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   color: #fff;
   border: 0;
@@ -1136,7 +1136,7 @@ p {
   background-position: right center;
 }
 .rounded-buttons .rounded-four {
-  border-color: #0067f4;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -1162,7 +1162,7 @@ p {
   }
 }
 .rounded-buttons .rounded-four:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: rgba(0, 103, 244, 0.4);
 }
 .rounded-buttons .rounded-four:hover i {
@@ -1173,8 +1173,8 @@ p {
 }
 .rounded-buttons .rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #003ad9;
+  border-color: #003ad9;
   padding-left: 60px;
 }
 @media (max-width: 767px) {
@@ -1200,7 +1200,7 @@ p {
   }
 }
 .rounded-buttons .rounded-five:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .rounded-buttons .rounded-five:hover i {
@@ -1215,12 +1215,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   color: #fff;
   border: 0;
@@ -2102,7 +2102,7 @@ p {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -2111,17 +2111,17 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
-  color: #0067f4;
+  color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-one:hover {
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-two {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 5px;
@@ -2131,17 +2131,17 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
-  color: #0067f4;
+  color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-two:hover {
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-three {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 10px;
@@ -2151,17 +2151,17 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
-  color: #0067f4;
+  color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-three:hover {
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-four {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 50%;
@@ -2174,7 +2174,7 @@ p {
 }
 .regular-icon-buttons ul li .regular-icon-light-four:hover {
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-five {
   width: 40px;
@@ -2194,12 +2194,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
 }
 .regular-icon-buttons ul li .regular-icon-light-five:hover {
@@ -2223,12 +2223,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border-radius: 5px;
 }
@@ -2253,12 +2253,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border-radius: 10px;
 }
@@ -2283,12 +2283,12 @@ p {
   color: #fff;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border-radius: 50%;
 }
@@ -2299,7 +2299,7 @@ p {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -2309,17 +2309,17 @@ p {
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-nine:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .regular-icon-buttons ul li .regular-icon-light-ten {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 5px;
@@ -2330,17 +2330,17 @@ p {
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-ten:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .regular-icon-buttons ul li .regular-icon-light-eleven {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 10px;
@@ -2351,17 +2351,17 @@ p {
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-eleven:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 .regular-icon-buttons ul li .regular-icon-light-twelve {
   width: 40px;
   height: 40px;
   line-height: 36px;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   text-align: center;
   font-size: 24px;
   border-radius: 50%;
@@ -2372,10 +2372,10 @@ p {
   transition: all 0.3s ease-out 0s;
   overflow: hidden;
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 .regular-icon-buttons ul li .regular-icon-light-twelve:hover {
-  color: #0067f4;
+  color: #003ad9;
   background-color: transparent;
 }
 
@@ -2388,7 +2388,7 @@ p {
 }
 .group-buttons .group-one .main-btn {
   background: none;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2406,7 +2406,7 @@ p {
   border-left: 0;
 }
 .group-buttons .group-one .main-btn:hover {
-  background-color: #0067f4;
+  background-color: #003ad9;
   color: #fff;
 }
 .group-buttons .group-two .main-btn {
@@ -2419,9 +2419,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
+  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: auto 200%;
   border-top: 0;
   border-bottom: 0;
@@ -2452,12 +2452,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border: 0;
 }
@@ -2479,7 +2479,7 @@ p {
 }
 .group-buttons .group-four .main-btn {
   background: none;
-  border: 2px solid #0067f4;
+  border: 2px solid#003ad9;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2501,7 +2501,7 @@ p {
   border-left: 0;
 }
 .group-buttons .group-four .main-btn:hover {
-  background-color: #0067f4;
+  background-color: #003ad9;
   color: #fff;
 }
 .group-buttons .group-five .main-btn {
@@ -2514,9 +2514,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
+  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: auto 200%;
   border-top: 0;
   border-bottom: 0;
@@ -2548,12 +2548,12 @@ p {
   line-height: 52px;
   background: -webkit-linear-gradient(
     left,
-    #0067f4 0%,
+    #003ad9 0%,
     #2bdbdc 50%,
-    #0067f4 100%
+    #003ad9 100%
   );
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 50%, #003ad9 100%);
   background-size: 200% auto;
   border: 0;
   padding: 0 16px;
@@ -2639,7 +2639,7 @@ p {
 }
 .form-input .input-items.default input:focus,
 .form-input .input-items.default textarea:focus {
-  border-color: #0067f4;
+  border-color: #003ad9;
 }
 .form-input .input-items.default input::placeholder,
 .form-input .input-items.default textarea::placeholder {
@@ -2666,7 +2666,7 @@ p {
 }
 .form-input .input-items.active input,
 .form-input .input-items.active textarea {
-  border-color: #0067f4;
+  border-color: #003ad9;
   color: #121212;
 }
 .form-input .input-items.active input::placeholder,
@@ -2690,7 +2690,7 @@ p {
   opacity: 1;
 }
 .form-input .input-items.active i {
-  color: #0067f4;
+  color: #003ad9;
 }
 .form-input .input-items.error input,
 .form-input .input-items.error textarea {
@@ -3039,7 +3039,7 @@ p {
 .navbar-area .navbar .navbar-btn li a.solid {
   background-color: #fff;
   border-color: #fff;
-  color: #0067f4;
+  color: #003ad9;
 }
 .navbar-area .navbar .navbar-btn li a.solid:hover {
   background-color: transparent;
@@ -3075,12 +3075,12 @@ p {
   opacity: 1;
 }
 .navbar-area.sticky .navbar .navbar-btn li a.light {
-  border-color: #0067f4;
-  color: #0067f4;
+  border-color: #003ad9;
+  color: #003ad9;
 }
 .navbar-area.sticky .navbar .navbar-btn li a.solid {
-  border-color: #0067f4;
-  background-color: #0067f4;
+  border-color: #003ad9;
+  background-color: #003ad9;
   color: #fff;
 }
 
@@ -3088,7 +3088,7 @@ p {
        10.SLIDER css 
 ===========================*/
 .carousel-item {
-  background-color: #0067f4;
+  background-color: #003ad9;
   position: relative;
 }
 .carousel-item::before {
@@ -3217,7 +3217,7 @@ p {
 }
 .slider-content .slider-btn li a.rounded-two:hover {
   background-color: #fff;
-  color: #0067f4;
+  color: #003ad9;
 }
 
 .carousel-indicators {
@@ -3364,7 +3364,7 @@ p {
   }
 }
 .single-features .features-title-icon .features-title a:hover {
-  color: #0067f4;
+  color: #003ad9;
 }
 .single-features .features-title-icon .features-icon {
   position: relative;
@@ -3373,7 +3373,7 @@ p {
 .single-features .features-title-icon .features-icon i {
   font-size: 88px;
   line-height: 70px;
-  color: #0067f4;
+  color: #003ad9;
   position: relative;
   z-index: 5;
 }
@@ -3389,7 +3389,7 @@ p {
   margin-top: 16px;
 }
 .single-features .features-content .features-btn {
-  color: #0067f4;
+  color: #003ad9;
   font-size: 16px;
   font-weight: 700;
   margin-top: 29px;
@@ -3446,9 +3446,9 @@ p {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 100%);
+  background: -webkit-linear-gradient(left, #003ad9 0%, #2bdbdc 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 100%);
   z-index: -1;
   opacity: 0;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -3518,7 +3518,7 @@ p {
   .portfolio-icon
   a {
   font-size: 48px;
-  color: #0067f4;
+  color: #003ad9;
   position: relative;
   z-index: 5;
   line-height: 50px;
@@ -3556,9 +3556,9 @@ p {
   border-radius: 8px;
   position: relative;
   overflow: hidden;
-  background: -webkit-linear-gradient(#2bdbdc 0%, #0067f4 100%);
-  background: -o-linear-gradient(#2bdbdc 0%, #0067f4 100%);
-  background: linear-gradient(#2bdbdc 0%, #0067f4 100%);
+  background: -webkit-linear-gradient(#2bdbdc 0%, #003ad9 100%);
+  background: -o-linear-gradient(#2bdbdc 0%, #003ad9 100%);
+  background: linear-gradient(#2bdbdc 0%, #003ad9 100%);
 }
 .pricing-style .pricing-icon img {
   width: 190px;
@@ -3631,7 +3631,7 @@ p {
   border-color: #fff;
 }
 .pricing-style .pricing-btn .main-btn:hover {
-  color: #0067f4;
+  color: #003ad9;
   -webkit-box-shadow: 0 3px 16px 0 rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 0 3px 16px 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 3px 16px 0 rgba(0, 0, 0, 0.16);
@@ -3648,7 +3648,7 @@ p {
 .about-area .about-title .sub-title {
   font-size: 18px;
   font-weight: 400;
-  color: #0067f4;
+  color: #003ad9;
   text-transform: uppercase;
 }
 @media (max-width: 767px) {
@@ -3732,7 +3732,7 @@ p {
 .testimonial-area .testimonial-left-content .sub-title {
   font-size: 18px;
   font-weight: 400;
-  color: #0067f4;
+  color: #003ad9;
   text-transform: uppercase;
 }
 @media (max-width: 767px) {
@@ -3760,7 +3760,7 @@ p {
 }
 .testimonial-area .testimonial-left-content .testimonial-line li {
   height: 5px;
-  background-color: #0067f4;
+  background-color: #003ad9;
   opacity: 0.2;
   display: inline-block;
   border-radius: 50px;
@@ -3817,7 +3817,7 @@ p {
 .testimonial-area .testimonial-right-content .quota i {
   font-size: 130px;
   line-height: 95px;
-  color: #0067f4;
+  color: #003ad9;
 }
 .testimonial-area .testimonial-content-wrapper {
   position: relative;
@@ -3967,9 +3967,9 @@ p {
   height: 100%;
   top: 0;
   left: 0;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 100%);
+  background: -webkit-linear-gradient(left, #003ad9 0%, #2bdbdc 100%);
+  background: -o-linear-gradient(left, #003ad9 0%, #2bdbdc 100%);
+  background: linear-gradient(to right, #003ad9 0%, #2bdbdc 100%);
   z-index: -1;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -4011,7 +4011,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .team-style-eleven .team-content .team-social .social li a:hover {
-  color: #0067f4;
+  color: #003ad9;
 }
 .team-style-eleven .team-content .team-name a {
   color: #121212;
@@ -4030,7 +4030,7 @@ p {
 }
 .team-style-eleven .team-content .sub-title {
   font-size: 16px;
-  color: #0067f4;
+  color: #003ad9;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -4164,7 +4164,7 @@ p.form-message.error.form-message.error {
   transition: all 0.3s ease-out 0s;
 }
 .footer-area .social li a:hover {
-  color: #0067f4;
+  color: #003ad9;
 }
 .footer-area .footer-support {
   padding-top: 21px;
@@ -4243,7 +4243,7 @@ p.form-message.error.form-message.error {
   height: 45px;
   line-height: 45px;
   border-radius: 5px;
-  background-color: #0067f4;
+  background-color: #003ad9;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -4255,7 +4255,7 @@ p.form-message.error.form-message.error {
 }
 .back-to-top:hover {
   color: #fff;
-  background-color: #0067f4;
+  background-color: #003ad9;
 }
 
 /*# sourceMappingURL=style.css.map */
